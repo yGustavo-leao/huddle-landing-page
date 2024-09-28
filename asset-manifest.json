@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/huddle-landing-page/static/js/main.8a6a836e.js",
+    "static/media/instagram-icon.svg": "/huddle-landing-page/static/media/instagram-icon.2234beda13a6c57bd78665bf21541aaf.svg",
+    "static/media/twitter-icon.svg": "/huddle-landing-page/static/media/twitter-icon.9507addd2bf97de8eefe10c66ef90f90.svg",
+    "index.html": "/huddle-landing-page/index.html",
+    "static/media/facebook-icon.svg": "/huddle-landing-page/static/media/facebook-icon.7a40e2cc6bdf9e921b9b8f4f261bcad6.svg",
+    "main.8a6a836e.js.map": "/huddle-landing-page/static/js/main.8a6a836e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8a6a836e.js"
+  ]
+}
